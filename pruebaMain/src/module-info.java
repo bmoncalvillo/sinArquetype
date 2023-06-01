@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bego
+ *
+ */
+module pruebaMain {
+}
